@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentinstagsbotschaft</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E3F2FD;
+            color: #1E3A5F;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #1565C0;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        iframe {
+            margin-top: 20px;
+            width: 100%;
+            height: 80px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Frohen Valentinstag, Lyrinchen</h1>
+        <p>
+            Losgelöst von irdischer Schwere,<br>
+            In dir, der unendlichen Stille, finde ich Frieden,<br>
+            Es ist die Wonne eines flimmernden Gefühls,<br>
+            Bezeichnend von Zartheit, die nicht weicht,<br>
+            Ein Hauch von Unausgesprochenem, das erblüht,<br>
+            Sanft wie der Hauch, der in den Raum schwebt.<br>
+        </p>
+        <p>
+            Tief im Unbekannten verbirgt sich der Traum,<br>
+            Ruhig in der Bewegung, leise in der Kraft,<br>
+            Allem Vorübergehenden entsagend,<br>
+            Unverrückbar in seiner selbstlosen Nähe,<br>
+            Mit einer Essenz, die niemals vergeht.<br>
+        </p>
+        <iframe src="https://open.spotify.com/embed/track/78bsqObGFUD5ntweePBhIY" allow="encrypted-media"></iframe>
+    </div>
+</body>
+</html>
